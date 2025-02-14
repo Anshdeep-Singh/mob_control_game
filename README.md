@@ -1,3 +1,2 @@
--> npm install 
--> npm run dev
-
+First run ' npm install ' 
+Then ' npm run dev ' Enjoy !
